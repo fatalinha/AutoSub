@@ -19,15 +19,24 @@ English to-{Dutch,French,German,Italian,Portuguese,Romanian,Spanish}
 ## Evaluation metrics
 Subtitle quality:
 - SubER (Subtitle Edit Rate):
-[code](https://github.com/apptek/SubER)
+[(code)](https://github.com/apptek/SubER)
 - Sigma: Subtitle Segmentation Score
-[code](https://github.com/fyvo/EvalSubtitle)
+[(code)](https://github.com/fyvo/EvalSubtitle)  
 
 Subtitle conformity:
 - CPL conformity: percentage of subtitles not exceeding a specific subtitle length (in characters per line)
 - CPS conformity: percentage of subtitles not exceeding a specific reading speed (in characters per second)
 - NOL conformity: percentage of subtitles not exceeding the max. number of lines 
-[code](https://github.com/hlt-mt/FBK-fairseq/blob/master/examples/speech_to_text/scripts/subtitle_compliance.py)
+[(code)](https://github.com/hlt-mt/FBK-fairseq/blob/master/examples/speech_to_text/scripts/subtitle_compliance.py)
 
 ## Campaings
 IWSLT 2023 Subtitling task: https://iwslt.org/2023/subtitling
+  
+## Software
+- EvalSubtitle: A toolkit for computing a variety of segmentation scores [(code)](https://github.com/fyvo/EvalSubtitle)
+
+## Automatic subtitling tools
+- MateSub: matesub.com/
+
+  
+## Papers
