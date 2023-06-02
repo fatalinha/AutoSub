@@ -42,7 +42,7 @@ IWSLT 2023 Subtitling task: https://iwslt.org/2023/subtitling
 ## Papers
   
 ## Others
-  - Experimental research: reproducibility checklist
+  - Experimental research: [reproducibility checklist]()
   
 # Contact
   If you have any resources or information that you want to include, please get in touch.
