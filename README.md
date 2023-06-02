@@ -1,5 +1,5 @@
 # AutoSub
-Resources for automatic subtitling
+This repository documents relevant resources for automatic subtitling. 
 
 ## Data
 **MuST-Cinema (https://ict.fbk.eu/must-cinema/)**
@@ -40,3 +40,10 @@ IWSLT 2023 Subtitling task: https://iwslt.org/2023/subtitling
 
   
 ## Papers
+  
+## Others
+  - Experimental research: reproducibility checklist
+  
+# Contact
+  If you have any resources or information that you want to include, please get in touch.
+  alina [at] karakanta [dot] com
