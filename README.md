@@ -1,5 +1,5 @@
 # AutoSub
-This repository documents relevant resources for automatic subtitling. 
+Automatic subtitling is the task of obtaining the target language subtitles for a source video in an automatic way. This repository documents relevant resources for automatic subtitling. 
 
 ## Data
 **MuST-Cinema (https://ict.fbk.eu/must-cinema/)**
@@ -36,7 +36,7 @@ IWSLT 2023 Subtitling task: https://iwslt.org/2023/subtitling
 - EvalSubtitle: A toolkit for computing a variety of segmentation scores [(code)](https://github.com/fyvo/EvalSubtitle)
 
 ## Automatic subtitling tools
-- MateSub: [matesub.com/]
+  - MateSub: [matesub.com/]
   - Sonix [https://sonix.ai]
   - Zeemo [https://zeemo.ai/]
   - HappyScribe
@@ -51,18 +51,27 @@ IWSLT 2023 Subtitling task: https://iwslt.org/2023/subtitling
 
   
 ## Papers
+  - Karakanta, Alina, Sara Papi, Matteo Negri, and Marco Turchi (2021). “Simultaneous Speech Translation for Live Subtitling: from Delay to Display”. In: Proceedings of the 1st Workshop on Automatic Spoken Language Translation in Real-World Settings (ASLTRW). Virtual: Association for Machine Translation in the Americas, pp. 35-46.
+  - Karakanta, Alina, Luisa Bentivogli, Mauro Cettolo, Matteo Negri, and Marco Turchi (2022a). “Post-editing in Automatic Subtitling: A Subtitlers’ perspective”. In: Proceedings of the 23rd Annual Conference of the European Association for Machine Translation. Ghent, Belgium: European Association for Machine Translation, pp. 259–268. URL: https://aclanthology.org/2022.eamt-1.29
+  - Karakanta, Alina (2022). “Experimental research in automatic subtitling: At the crossroads between Machine Translation and Audiovisual Translation”. In: Translation Spaces. DOI: https://doi.org/10.1075/ts.21021.kar.
   - Alina Karakanta, Fran´cois Buet, Mauro Cettolo, and Fran´cois Yvon. 2022. Evaluating Subtitle Segmentation for End-to-end Generation Systems. In Proceedings of the 13th Language Resources and Evaluation Conference (LREC), pages 3069–3078, Marseilles, France.
   - Alina Karakanta, Marco Gaido, Matteo Negri, and Marco Turchi. 2021. Between flexibility and consistency: Joint generation of captions and subtitles. In Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021), pages 215–225, Bangkok, Thailand (online).
-  - Alina Karakanta, Matteo Negri, and Marco Turchi. 2020a. Is 42 the answer to everything in subtitling-oriented speech translation? In Proceedings of the 17th International Conference on Spoken Language Translation, pages 209–219, Online.
-  - Alina Karakanta, Matteo Negri, and Marco Turchi. 2020b. MuST-cinema: a speech-to-subtitles corpus. In Proc. of the 12th Language Resources and Evaluation Conference, pages 3727–3734, Marseille, France.
-  - Danni Liu, Jan Niehues, and Gerasimos Spanakis. 2020a. Adapting end-to-end speech recognition for readable subtitles. In Proceedings of the 17th International Conference on Spoken Language Translation, pages 247–256, Online.
+  - Alina Karakanta, Matteo Negri, and Marco Turchi. 2020. Is 42 the answer to everything in subtitling-oriented speech translation? In Proceedings of the 17th International Conference on Spoken Language Translation, pages 209–219, Online.
+  - Alina Karakanta, Matteo Negri, and Marco Turchi. 2020. MuST-cinema: a speech-to-subtitles corpus. In Proc. of the 12th Language Resources and Evaluation Conference, pages 3727–3734, Marseille, France.
+  - Danni Liu, Jan Niehues, and Gerasimos Spanakis. 2020. Adapting end-to-end speech recognition for readable subtitles. In Proceedings of the 17th International Conference on Spoken Language Translation, pages 247–256, Online.
+  - Maarit Koponen, Umut Sulubacak, Kaisa Vitikainen, and Jörg Tiedemann. 2020a. MT for subtitling: Investigating professional translators’ user experience and feedback. In Proceedings of 1st Workshop on Post-Editing in Modern-Day Translation, pages 79–92, Virtual. AMTA.
   - Maarit Koponen, Umut Sulubacak, Kaisa Vitikainen, and Jörg Tiedemann. 2020. MT for subtitling: User evaluation of post-editing productivity. In Proceedings of the 22nd Annual Conference of the European Association for Machine Translation, pages 115–124, Lisboa, Portugal
   Evgeny Matusov, Patrick Wilken, and Yota Georgakopoulou. 2019. Customizing neural machine translation for subtitling. In Proceedings of the Fourth Conference on Machine Translation (Volume 1: Research Papers), pages 82–93, Florence, Italy.
   - Evgeny Matusov, Patrick Wilken, and Christian Herold. 2020. Flexible customization of a single neural machine translation system with multidimensional
 metadata inputs. In Proceedings of the 14th Conference of the Association for Machine Translation in the Americas (Volume 2: User Track), pages 204–216.
   - Maite Melero, Antoni Oliver, and Toni Badia. 2006. Automatic Multilingual Subtitling in the eTITLE Project. In Proceedings of ASLIB Translating and the Computer 28.
+  - Papi, Sara, Marco Gaido, Alina Karakanta, Mauro Cettolo, Matteo Negri, and Marco Turchi (2022). “Direct Speech Translation for Automatic Subtitling”. In: arXiv. URL: https://arxiv.org/abs/2209.13192.
+  - Patrick Wilken, Panayota Georgakopoulou, and Evgeny Matusov. 2022. SubER - a metric for automatic evaluation of subtitle quality. In Proceedings of the 19th International Conference on Spoken Language Translation (IWSLT 2022), pages 1–10, Dublin, Ireland (in-person and online). Association for Computational Linguistics.
+  
+  
 ## Others
   - Experimental research: [reproducibility checklist](https://github.com/fatalinha/AutoSub/blob/main/reproList.docx)
+  - User experience questionnaire and responses: (https://github.com/fatalinha/subtitlers-have-a-say)
   
 ## Blogs
   - Las herramientas del futuro del subtitulado: https://jugandoatraducir.com/las-herramientas-del-futuro-del-subtitulado-transcripciones-y-subtitulos-automaticos/
