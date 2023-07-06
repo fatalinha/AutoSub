@@ -76,6 +76,8 @@ metadata inputs. In Proceedings of the 14th Conference of the Association for Ma
 ## Blogs
   - Las herramientas del futuro del subtitulado: https://jugandoatraducir.com/las-herramientas-del-futuro-del-subtitulado-transcripciones-y-subtitulos-automaticos/
   
-# Contact
-  If you have any resources or information that you want to include, please get in touch.
+# Contact and contributing
+
+This is an active repository and your contributions are always welcome!
+If you have any resources or information that you want to include, please get in touch.
   alina [at] karakanta [dot] com
